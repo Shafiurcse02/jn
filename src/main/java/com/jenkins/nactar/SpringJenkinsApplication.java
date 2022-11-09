@@ -11,7 +11,7 @@ public class SpringJenkinsApplication {
 
 	public static void main(String[] args) {
 		System.out.println("Shafiur");
-		logger.info("NACTAR");
+		logger.info("NACTAR fdf");
 		SpringApplication.run(SpringJenkinsApplication.class, args);
 	}
 
